@@ -3,4 +3,6 @@
 *avocado
 *lime
 *salt
+*cilantro
+*cumin
 ## instructions
